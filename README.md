@@ -29,3 +29,23 @@ Analyze the Results: The script will download the data, perform the backtest, pr
 
 ## Important Note on the RSI Period
 The script uses a very short 2-period RSI, which is highly sensitive and volatile. While this is used to generate a specific signal, a more conventional RSI period for trading strategies is 14 days, as it provides a smoother, less erratic signal. The use of a 2-period RSI in this script is a deliberate choice for this specific strategy's logic.
+
+---
+
+## Output Examples
+### TLKM.JK
+![](./TLKM.JK_trading_strategy_plot.png)
+
+
+### BBCA.JK
+![](./BBCA.JK_trading_strategy_plot.png)
+
+
+### BBRI.JK
+![](./BBRI.JK_trading_strategy_plot.png)
+
+
+### BMRI.JK
+![](./BMRI.JK_trading_strategy_plot.png)
+
+---
