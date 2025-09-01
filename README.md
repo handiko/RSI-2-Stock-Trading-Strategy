@@ -17,8 +17,9 @@ The core of this strategy lies in its specific entry and exit conditions:
 ## How to Use
 Install Dependencies: Make sure you have the necessary libraries installed by running the command:
 ```Bash
-pip install yfinance pandas matplotlib numpy
+    pip install yfinance pandas matplotlib numpy
 ```
+
 Run the Script: Execute the Python script from your terminal:
 ```Bash
     python your_script_name.py
