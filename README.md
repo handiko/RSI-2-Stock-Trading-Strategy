@@ -25,7 +25,7 @@ Run the Script: Execute the Python script from your terminal:
     python your_script_name.py
 ```
     
-Analyze the Results: The script will download the data, perform the backtest, print the final results to the console, and save a plot named [ticker_symbol]_trading_strategy_plot.png in the same directory.
+Analyze the Results: The script will download the data, perform the backtest, print the final results to the console, and save a plot named _**[ticker_symbol]_trading_strategy_plot.png**_ in the same directory.
 
 ## Important Note on the RSI Period
 The script uses a very short 2-period RSI, which is highly sensitive and volatile. While this is used to generate a specific signal, a more conventional RSI period for trading strategies is 14 days, as it provides a smoother, less erratic signal. The use of a 2-period RSI in this script is a deliberate choice for this specific strategy's logic.
