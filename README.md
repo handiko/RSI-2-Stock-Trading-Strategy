@@ -51,3 +51,6 @@ The script uses a very short 2-period RSI, which is highly sensitive and volatil
 ![](./BMRI.JK_trading_strategy_plot.png)
 
 ---
+
+## Related Project
+[Portfolio Trading Strategy Backtester](https://github.com/handiko/RSI-2-Portfolio-Trading-Strategy-Backtester/blob/main/README.md)
