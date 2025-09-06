@@ -53,7 +53,8 @@ The script uses a very short 2-period RSI, which is highly sensitive and volatil
 ---
 
 ## Related Project
-[Portfolio Trading Strategy Backtester](https://github.com/handiko/RSI-2-Portfolio-Trading-Strategy-Backtester/blob/main/README.md)
+* [Portfolio Trading Strategy Backtester](https://github.com/handiko/RSI-2-Portfolio-Trading-Strategy-Backtester/blob/main/README.md)
+* [RSI-2 Trading Strategy - Pinescript version](https://github.com/handiko/RSI-2-Stock-Trading-Strategy-Pinescript/blob/main/README.md)
 
 ---
 
